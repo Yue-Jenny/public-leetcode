@@ -1,0 +1,12 @@
+{
+  "name": "leetcode-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yue-Jenny/leetcode-typescript",
+  "author": "Jenny <jennyc201911@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.3.3",
+    "typescript": "^4.3.5"
+  }
+}
